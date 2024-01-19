@@ -1,0 +1,24 @@
+/* app.css */
+
+/* Add any global styles or resets here */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Style for the centered box */
+  .centered-box {
+    text-align: center;
+    margin-top: -40px;
+    margin-bottom: -40px;
+
+  }
+  
+  .centered-box h2 {
+    margin-bottom: 20px;
+  }
+  
+  .centered-box .button-container {
+    margin-top: 20px;
+  }
+  

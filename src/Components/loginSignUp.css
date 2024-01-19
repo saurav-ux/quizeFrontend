@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 239, 242);
+}
+
+.login {
+    width: 30%;
+    text-align: center;
+    background-color: white;
+}
+
+
+/* for  mobile */
+@media (max-width: 425px) {   
+.login {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
+  }
+
+img {
+    width: 100%;
+}
+
+cite {
+    font-weight: bold;
+    color: hotpink;
+}
+
+.loginButton {
+    background-color: rgb(250, 6, 128);
+    width: 50%;
+    border-radius: 4px;
+    border: none;
+    padding: 10px;
+    color: white;
+
+}
+
+.co {
+    color: white;
+    padding: 6px;
+}
+
+.textfield {
+    width: 100%;
+
+}
